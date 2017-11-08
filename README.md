@@ -1,2 +1,2 @@
 # hello-world
-Hello world rep.
+I'm here to make some serious coding...
